@@ -28,23 +28,29 @@ After cloning, navigate to the project directory and run the script. It’ll aut
 
 Once you fire up the script, you’ll get a menu like this:
 
-    Search for a Specific CVE:
+Search for a Specific CVE:
+
         Enter the CVE ID you’re interested in and see which repositories are linked to it.
 
-    Search for New CVEs:
+Search for New CVEs:
+    
         Find CVEs that have been created since your last search.
 
-    Search for CVEs by Date:
+ Search for CVEs by Date:
+    
         Input a specific date and hunt down CVEs created on that day.
 
-    Search Repositories by Keyword:
+Search Repositories by Keyword:
+    
         Type in some keywords and see what repositories pop up.
 
-    Help:
+Help:
+
         Get more info on the menu options.
 
-    Exit:
-        Choose this to quit the program.
+Exit:
+
+         Choose this to quit the program.
 
 ⚙️ Settings
 
