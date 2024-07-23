@@ -48,10 +48,12 @@ Once you fire up the script, you’ll get a menu like this:
 
 ⚙️ Settings
 
-    GitHub Token:
+GitHub Token:
+
         You’ll need to input your GitHub token to use the tool. The script will save this token for future use.
 
-    Settings Files:
+Settings Files:
+    
         settings.json: Stores your GitHub token.
         last_search.json: Keeps track of the last search time.
 
