@@ -16,7 +16,7 @@ Clone the Repository:
 
 First off, clone our repo to your local machine. Run:
 
-     git clone https://github.com/blackhuntop/Ghost-Cve.git
+    git clone https://github.com/blackhuntop/Ghost-Cve.git
             
 Install Dependencies and Run the Script:
 
@@ -30,37 +30,37 @@ Once you fire up the script, you’ll get a menu like this:
 
 Search for a Specific CVE:
 
-        Enter the CVE ID you’re interested in and see which repositories are linked to it.
+    Enter the CVE ID you’re interested in and see which repositories are linked to it.
 
 Search for New CVEs:
     
-        Find CVEs that have been created since your last search.
+    Find CVEs that have been created since your last search.
 
  Search for CVEs by Date:
     
-        Input a specific date and hunt down CVEs created on that day.
+    Input a specific date and hunt down CVEs created on that day.
 
 Search Repositories by Keyword:
     
-        Type in some keywords and see what repositories pop up.
+    Type in some keywords and see what repositories pop up.
 
 Help:
 
-        Get more info on the menu options.
+    Get more info on the menu options.
 
 Exit:
 
-         Choose this to quit the program.
+    Choose this to quit the program.
 
 ⚙️ Settings
 
 GitHub Token:
 
-        You’ll need to input your GitHub token to use the tool. The script will save this token for future use.
+    You’ll need to input your GitHub token to use the tool. The script will save this token for future use.
 
 Settings Files:
     
-        settings.json: Stores your GitHub token.
-        last_search.json: Keeps track of the last search time.
+    settings.json: Stores your GitHub token.
+    last_search.json: Keeps track of the last search time.
 
 This project is licensed under the MIT License.
