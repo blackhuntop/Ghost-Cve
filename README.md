@@ -1,6 +1,5 @@
 # Ghost-Cve
 GitHub CVE Repository Hunt
-GitHub CVE Repository Hunt
 
 Hey hackers! 🕵️‍♂️
 
