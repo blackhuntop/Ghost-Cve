@@ -16,7 +16,7 @@ Clone the Repository:
 
 First off, clone our repo to your local machine. Run:
 
-     git clone <URL-OF-THIS-REPOSITORY>
+     git clone https://github.com/blackhuntop/Ghost-Cve.git
             
 Install Dependencies and Run the Script:
 
