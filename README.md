@@ -8,9 +8,7 @@ We’ve got a tool to help you dive into the world of CVEs on GitHub without get
 
 Before you dive in, make sure you’ve got these Python libraries installed. They’re required for the tool to run:
 
-bash
-
-pip install requests rich tzlocal
+    pip install requests rich tzlocal
 
 🚀 Setup
 
