@@ -15,21 +15,17 @@ pip install requests rich tzlocal
 
 🚀 Setup
 
-    Clone the Repository:
+Clone the Repository:
 
-    First off, clone our repo to your local machine. Run:
+First off, clone our repo to your local machine. Run:
 
-    bash
-
-git clone <URL-OF-THIS-REPOSITORY>
-
+     git clone <URL-OF-THIS-REPOSITORY>
+            
 Install Dependencies and Run the Script:
 
 After cloning, navigate to the project directory and run the script. It’ll automatically handle the dependencies for you:
 
-bash
-
-    python <NAME-OF-THIS-SCRIPT>.py
+    python Ghost-Cve.py
 
 🔍 How to Use
 
@@ -61,10 +57,5 @@ Once you fire up the script, you’ll get a menu like this:
     Settings Files:
         settings.json: Stores your GitHub token.
         last_search.json: Keeps track of the last search time.
-
-🤝 Contributing
-
-Wanna help out or have some suggestions? Drop us a line or send over your pull requests!
-📝 License
 
 This project is licensed under the MIT License.
